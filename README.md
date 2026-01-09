@@ -11,8 +11,8 @@ FOLDER STRUCTURE
 ├── ML2_regression-part2.ipynb
 ├── ML2_regression-part2.html           
 ├── OnlineNewsPopularity.csv
-├── title_class-n.png
-└── README_regression.txt           
+├── title_slide.png
+└── README.txt           
 
 ============================================================
 
@@ -22,7 +22,7 @@ REGRESSION PROJECT
 ============================================================
 
 Goal:
-Predict continuous labels using ML regression models.
+Predict number of shares using ML regression models.
 
 Dataset:
 Mashable news dataset (39,644 articles, 61 variables).
